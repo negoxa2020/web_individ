@@ -1,0 +1,25 @@
+body{
+	background-image: url(https://sensitiv-eysk.ru/wp-content/uploads/2017/06/opera-background-light-blue.jpg);
+}
+h1{
+	margin: 15px 500px auto;
+	font-size: 50px;
+	font-family: TimesNewRoman;
+}
+h2{
+	margin: 15px 500px auto;
+	font-size: 35px;
+	font-family: TimesNewRoman;
+}
+p{
+	margin: 7px;
+	font-size: 22px;
+	font-family: Arial;
+}
+a{
+	font-size: 20px;
+}
+img{
+	border: 2px groove white;
+	background: black;
+}
